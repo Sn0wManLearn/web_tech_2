@@ -1,0 +1,35 @@
+html {
+    background-color: rgb(225, 232, 245);
+}
+p {
+    color: black;
+    padding-left: 70px;
+    padding-right: 50px;
+}
+h1 {
+    color: darkgreen;
+    padding-left: 20px;
+}
+h2 {
+    color: rgb(3, 21, 124);
+    padding-left: 40px;
+}
+a {
+    color: rgb(21, 4, 255);
+}
+h3 {
+    padding-left: 60px;
+}
+.block {
+    width: 260px;
+    background-color: rgb(241, 237, 181);
+    border: 2px solid rgb(128, 119, 119);
+    padding: 20px 10px 20px 30px;
+    /*margin: 30px 20px 10px 50px;*/
+}
+img {
+    padding-left: 70px;
+}
+ul {
+    padding-left: 100px;
+}
